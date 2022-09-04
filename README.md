@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/header-github.gif" alt="Oi, eu sou o Higor">
+  <img src="https://github.com/HigorCustodio/HigorCustodio/blob/main/assets/ezgif.com-gif-maker.gif" alt="Oi, eu sou o Higor">
 </p>
 <!--
 How to make the bio gif ?
