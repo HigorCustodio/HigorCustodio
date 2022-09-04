@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/kterra/kterra/raw/main/assets/header-github.gif" alt="Oi, eu sou o Higor">
+  <img src="https://github.com/header-github.gif" alt="Oi, eu sou o Higor">
 </p>
 <!--
 How to make the bio gif ?
