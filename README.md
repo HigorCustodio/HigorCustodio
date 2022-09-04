@@ -1,5 +1,14 @@
-<h1 align="center">Olá 👋, eu sou o Higor Custodio</h1>
-<h3 align="center">Estudante de Engenharia de Software e desenvolvimento FullStack.</h3>
+<p align="center">
+  <img src="https://github.com/kterra/kterra/raw/main/assets/header-github.gif" alt="Oi, eu sou o Higor">
+</p>
+<!--
+How to make the bio gif ?
+💜 Thanks to [matyo91](https://github.com/matyo91)
+I made my with https://codesandbox.io/s/github-profile-2ijk7
+Then i recorded my screen to gif on Mac with Quicktime  and save result to [assets/github.mov](assets/github.mov)
+This [GIF converter](https://ezgif.com/video-to-gif) help me to create a dedicated command that convert MOV to GIF.
+Then i save result to [assets/github.gif](assets/github.gif)
+-->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=higorcustodio&label=Profile%20views&color=0e75b6&style=flat" alt="higorcustodio" /> </p>
 
@@ -11,7 +20,7 @@
 - 📄 Saiba mais sobre mim [https://www.linkedin.com/in/higor-custodio-440595a6/](https://www.linkedin.com/in/higor-custodio-440595a6/)
 - ⚡ Curiosidades sobre mim **sou apaixonado por jogos, tecnologia e artes marciais.**
 
-<h3 align="left">📇Entre em contato comigo:</h3>
+<h3 align="left">🔗Entre em contato comigo:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/higorcustodio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="higorcustodio" height="30" width="40" /></a>
 <a href="https://instagram.com/@higorcto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@higorcto" height="30" width="40" /></a>
@@ -31,7 +40,7 @@
 
 
 <!--
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=higorcustodio&" alt="higorcustodio" /></p>
+
 **HigorCustodio/HigorCustodio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
