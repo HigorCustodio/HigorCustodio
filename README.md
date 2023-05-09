@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/HigorCustodio/HigorCustodio/blob/main/assets/ezgif.com-gif-maker.gif" alt="Oi, eu sou o Higor">
+  <img src="https://github.com/HigorCustodio/HigorCustodio/blob/main/assets/ezgif.com-gif-maker.gif" alt="Oi, eu sou o Higor!">
 </p>
 <!--
 How to make the bio gif ?
@@ -12,9 +12,9 @@ Then i save result to [assets/github.gif](assets/github.gif)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=higorcustodio&label=Profile%20views&color=0e75b6&style=flat" alt="higorcustodio" /> </p>
 
-- 🔭 No momento estou trabalhando com [RaysaManuelyWebPage](https://github.com/HigorCustodio/Raysa-Arquitetura-Page)
-- 🌱 Eu estou aprendendo **Javascript, ReactJs e NodeJs**
-- 👯 Eu procuro colaborar em **projetos Front End**
+- 🔭 No momento estou trabalhando com RPA (Robotic process automation )
+- 🌱 Eu estou aprendendo **Pandas, Python,MongoDB**
+- 👯 Eu procuro colaborar em **projetos Backend Python**
 - 👨‍💻 Todos os meus projetos estão em [https://github.com/HigorCustodio](https://github.com/HigorCustodio)
 - 📫 Como me encontrar **hgrcto@gmail.com**
 - 📄 Saiba mais sobre mim [https://www.linkedin.com/in/higor-custodio-440595a6/](https://www.linkedin.com/in/higor-custodio-440595a6/)
