@@ -3,12 +3,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=higorcustodio&label=Profile%20views&color=0e75b6&style=flat" alt="higorcustodio" /> </p>
 
 - 🔭 No momento estou trabalhando com RPA (Robotic process automation )
-- 🌱 Eu estou aprendendo **Pandas, Python,MongoDB**
+- 🌱 Eu estou aprendendo **HTTPX, ROCKETRY E ODM(BEANIE)**
 - 👯 Eu procuro colaborar em **projetos Backend Python**
 - 👨‍💻 Todos os meus projetos estão em [https://github.com/HigorCustodio](https://github.com/HigorCustodio)
 - 📫 Como me encontrar **hgrcto@gmail.com**
 - 📄 Saiba mais sobre mim [https://www.linkedin.com/in/higor-custodio-440595a6/](https://www.linkedin.com/in/higor-custodio-440595a6/)
-- ⚡ Curiosidades sobre mim **sou apaixonado por jogos, tecnologia e artes marciais.**
+- ⚡ Curiosidades sobre mim **sou apaixonado por jogos, tecnologia.**
 
 <h3 align="left">🔗Entre em contato comigo:</h3>
 <p align="left">
