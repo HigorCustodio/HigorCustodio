@@ -12,7 +12,7 @@
 
 <h3 align="left">🔗Entre em contato comigo:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/higorcustodio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="higorcustodio" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/higor-custodio-440595a6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="higorcustodio" height="30" width="40" /></a>
 <a href="https://instagram.com/@higorcto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@higorcto" height="30" width="40" /></a>
 <a href="https://discord.gg/Higor Custodio#1770" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Higor Custodio#1770" height="30" width="40" /></a>
 </p>
